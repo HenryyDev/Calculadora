@@ -35,7 +35,7 @@ Contém a lógica para inserir números e operadores, limpar o display, apagar o
   ` git clone https://github.com/HenryDiv/Calculadora.git`
 
 2. Navegue até o diretório do projeto:
-   ´cd Calculadora´
+   `cd Calculadora`
 
 3. Abra o arquivo index.html em seu navegador.
 
