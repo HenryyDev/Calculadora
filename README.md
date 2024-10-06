@@ -3,6 +3,11 @@
 Este repositório contém uma implementação de uma calculadora simples em HTML, CSS e JavaScript. A calculadora permite realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 
+## Demonstração
+
+![image](https://github.com/user-attachments/assets/068592fe-8cb6-40dc-99e3-9c90990f9551)
+
+
 ## Tecnologias Utilizadas
 
 - **HTML**: Para estruturar a interface da calculadora.
